@@ -29,7 +29,3 @@ npm install
 
 # Start development server
 npm run dev
-
-<div align="center">
-<p><b>Built by Abhi (Haru)</b></p>
-</div>
